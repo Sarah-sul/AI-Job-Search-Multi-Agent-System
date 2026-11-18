@@ -45,7 +45,6 @@ ai-job-search-multi-agent/
 │
 ├── job_search_multi_agent.ipynb   # Main Google Colab notebook containing all steps, agents, and tests
 ├── jobs_demo.csv                  # Local fallback dataset of job listings (if Google Sheet is offline)
-├── job_recommendation.txt         # Auto-generated output report saved after running the pipeline
 └── README.md                      # Project documentation
 ```
 
