@@ -1,6 +1,7 @@
 # AI Job Search — Multi-Agent System
 
 **Final Project — Multi-Agent Systems (SDAIA Academy)**
+---
 Sarah Sultan Alotaibi
 Wadha Ail Alhelal
 
