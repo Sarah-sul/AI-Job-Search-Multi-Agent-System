@@ -2,8 +2,9 @@
 
 **Final Project — Multi-Agent Systems (SDAIA Academy)**
 ---
-Sarah Sultan Alotaibi, 
-Wadha Ail Alhelal
+Sarah Sultan Alotaibi
+---
+Wadha Ail Alhelal :https://github.com/wadhaalhelal97-commits
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-Core%20%7C%20Groq-green.svg)](https://www.langchain.com/)
